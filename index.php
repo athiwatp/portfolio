@@ -76,7 +76,7 @@
             <div class="header-content-inner">
                 <h1>Full Stack Web Development</h1>
                 <hr>
-                <p>Hello! My name is John Leider and I'm a Florida-based Web Developer. I currently work for furryLogic, a Web Development company located in Cocoa, Florida.</p>
+                <p>Hello! My name is John Leider and I'm a Florida-based Web Developer. I currently work for furryLogic located in Cocoa, Florida.</p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
             </div>
         </div>
@@ -88,7 +88,7 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">I've have the skill-set you need</h2>
                     <hr class="light">
-                    <p class="text-faded">From a one page portfolio page to a fully customized Content Management System, I utilize the latest technologies in Web Development to build your site.</p>
+                    <p class="text-faded">From a one page portfolio to a fully customized Content Management System, I utilize the latest technologies in Web Development to build a website that will meet and exceed your expectations. </p>
                     <a href="#" class="btn btn-default btn-xl">Get Started!</a>
                 </div>
             </div>
@@ -99,7 +99,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">At Your Service</h2>
+                    <h2 class="section-heading">At your service</h2>
                     <hr class="primary">
                 </div>
             </div>
@@ -108,29 +108,29 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i>
-                        <h3>Sturdy Templates</h3>
-                        <p class="text-muted">Our templates are updated regularly so they don't break.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-paper-plane wow bounceIn text-primary" data-wow-delay=".1s"></i>
-                        <h3>Ready to Ship</h3>
-                        <p class="text-muted">You can use this theme as is, or you can make changes!</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-newspaper-o wow bounceIn text-primary" data-wow-delay=".2s"></i>
+                        <i class="fa fa-4x fa-html5 wow bounceIn text-primary"></i>
                         <h3>Up to Date</h3>
-                        <p class="text-muted">We update dependencies to keep things fresh.</p>
+                        <p class="text-muted">Your website will be developed using the latest web technology, utilizing HTML 5, CSS 3 and Javascript.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".3s"></i>
-                        <h3>Made with Love</h3>
+                        <i class="fa fa-4x fa-building wow bounceIn text-primary" data-wow-delay=".1s"></i>
+                        <h3>Custom CMS</h3>
+                        <p class="text-muted">Need a specialized Backend for your application? I have years of experience in developing Enterprise level custom content management systems.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-headphones wow bounceIn text-primary" data-wow-delay=".2s"></i>
+                        <h3>Professional Support</h3>
+                        <p class="text-muted">I'll walk you through the ins and outs of your website to ensure it exceeds your expectations.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-money wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                        <h3>Affordable Prices</h3>
                         <p class="text-muted">You have to make your websites with love these days!</p>
                     </div>
                 </div>
@@ -238,8 +238,8 @@
     <aside class="bg-dark">
         <div class="container text-center">
             <div class="call-to-action">
-                <h2>Free Download at Start Bootstrap!</h2>
-                <a href="#" class="btn btn-default btn-xl wow tada">Download Now!</a>
+                <h2>Check out my projects in GitHub</h2>
+                <a href="https://github.com/johnleider/" target="_blank" class="btn btn-default btn-xl wow tada"><i class="fa fa-github"></i> View Now!</a>
             </div>
         </div>
     </aside>
@@ -250,15 +250,19 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Let's Get In Touch!</h2>
                     <hr class="primary">
-                    <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                    <p>Are you ready to start your next project? That's great! Feel free to contact me via phone or email.</p>
                 </div>
-                <div class="col-lg-4 col-lg-offset-2 text-center">
+                <div class="col-lg-4 text-center">
                     <i class="fa fa-phone fa-3x wow bounceIn"></i>
-                    <p>123-456-6789</p>
+                    <p><a href="tel:321-298-2489">321-298-2489</a></p>
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a></p>
+                    <p><a href="mailto:john.j.leider@gmail.com">john.j.leider@gmail.com</a></p>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-file-text-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                    <p><a href="#">Download Resume</a></p>
                 </div>
             </div>
         </div>
