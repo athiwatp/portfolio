@@ -31,7 +31,6 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
 </head>
 
 <body id="page-top">
@@ -89,7 +88,7 @@
                     <h2 class="section-heading">I've have the skill-set you need</h2>
                     <hr class="light">
                     <p class="text-faded">From a one page portfolio to a fully customized Content Management System, I utilize the latest technologies in Web Development to build a website that will meet and exceed your expectations. </p>
-                    <a href="#" class="btn btn-default btn-xl">Get Started!</a>
+                    <a href="#contact" class="btn btn-default btn-xl page-scroll">Get Started!</a>
                 </div>
             </div>
         </div>
@@ -124,14 +123,14 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-headphones wow bounceIn text-primary" data-wow-delay=".2s"></i>
                         <h3>Professional Support</h3>
-                        <p class="text-muted">I'll walk you through the ins and outs of your website to ensure it exceeds your expectations.</p>
+                        <p class="text-muted">I'll walk you through the ins and outs of your website to ensure it meets and exceeds your expectations.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-money wow bounceIn text-primary" data-wow-delay=".3s"></i>
-                        <h3>Affordable Prices</h3>
-                        <p class="text-muted">You have to make your websites with love these days!</p>
+                        <i class="fa fa-4x fa-lightbulb-o wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                        <h3>Accountability</h3>
+                        <p class="text-muted">You will never be left in the dark when it comes to your website. I am available 24/7 to help assist you with questions or concerns.</p>
                     </div>
                 </div>
             </div>
@@ -143,14 +142,29 @@
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/1.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/structure.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Content Management System
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Structure CMS
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="http://www.desertmade.com/" class="portfolio-box" target="_blank">
+                        <img src="img/portfolio/desertmade.png" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Wordpress
+                                </div>
+                                <div class="project-name">
+                                    Desertmade
                                 </div>
                             </div>
                         </div>
@@ -158,74 +172,14 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/2.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/furrylogic.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Content Management System
                                 </div>
                                 <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/3.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/4.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/5.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/6.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
+                                    Furrylogic
                                 </div>
                             </div>
                         </div>
@@ -262,7 +216,7 @@
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-file-text-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="#">Download Resume</a></p>
+                    <p><a href="downloads/LeiderJohn-Resume.docx" target="_blank">Download Resume</a></p>
                 </div>
             </div>
         </div>
