@@ -85,7 +85,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">I've have the skill-set you need</h2>
+                    <h2 class="section-heading">I have the skill-set you need</h2>
                     <hr class="light">
                     <p class="text-faded">From a one page portfolio to a fully customized Content Management System, I utilize the latest technologies in Web Development to build a website that will meet and exceed your expectations. </p>
                     <a href="#contact" class="btn btn-default btn-xl page-scroll">Get Started!</a>
