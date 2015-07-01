@@ -139,6 +139,12 @@
 
     <section class="no-padding" id="portfolio">
         <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">My Work</h2>
+                    <hr class="primary">
+                </div>
+            </div>
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" class="portfolio-box">
