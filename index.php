@@ -75,7 +75,7 @@
             <div class="header-content-inner">
                 <h1>Full Stack Web Development</h1>
                 <hr>
-                <p>Hello! My name is John Leider and I'm a Florida-based Web Developer. I currently work for furryLogic located in Cocoa, Florida.</p>
+                <p>Hello! My name is John Leider and I'm a Florida-based Web Developer. I currently work for Fast Forward Academy located in Orlando, Florida.</p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
             </div>
         </div>
@@ -85,9 +85,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">I have the skill-set you need</h2>
+                    <h2 class="section-heading">Experience, Reliability, Professionalism</h2>
                     <hr class="light">
-                    <p class="text-faded">From a one page portfolio to a fully customized Content Management System, I utilize the latest technologies in Web Development to build a website that will meet and exceed your expectations. </p>
+                    <p class="text-faded">From a one page portfolio to a fully customized Content Management System, I utilize the latest technologies in Web Development to build websites that are on the bleeding edge. </p>
                     <a href="#contact" class="btn btn-default btn-xl page-scroll">Get Started!</a>
                 </div>
             </div>
@@ -210,20 +210,20 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Let's Get In Touch!</h2>
                     <hr class="primary">
-                    <p>Are you ready to start your next project? That's great! Feel free to contact me via phone or email.</p>
+<!--                    <p>Are you ready to start your next project? That's great! Feel free to contact me via phone or email.</p>-->
                 </div>
-                <div class="col-lg-4 text-center">
+                <div class="col-lg-6 text-center">
                     <i class="fa fa-phone fa-3x wow bounceIn"></i>
                     <p><a href="tel:321-298-2489">321-298-2489</a></p>
                 </div>
-                <div class="col-lg-4 text-center">
+                <div class="col-lg-6 text-center">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                     <p><a href="mailto:john.j.leider@gmail.com">john.j.leider@gmail.com</a></p>
                 </div>
-                <div class="col-lg-4 text-center">
-                    <i class="fa fa-file-text-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="downloads/LeiderJohn-Resume.docx" target="_blank">Download Resume</a></p>
-                </div>
+<!--                <div class="col-lg-4 text-center">-->
+<!--                    <i class="fa fa-file-text-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>-->
+<!--                    <p><a href="downloads/LeiderJohn-Resume.docx" target="_blank">Download Resume</a></p>-->
+<!--                </div>-->
             </div>
         </div>
     </section>
