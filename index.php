@@ -3,22 +3,32 @@
         (object) [
             'name' => 'Structure CMS',
             'category' => 'Content Management System',
-            'image' => 'structure.png'
+            'image' => 'structure.png',
+            'url' => '#!'
         ],
         (object) [
             'name' => 'Desert Made Jewelry',
             'category' => 'Wordpress',
-            'image' => 'desertmade.png'
+            'image' => 'desertmade.png',
+            'url' => '#!'
         ],
         (object) [
             'name' => 'Furrylogic',
             'category' => 'Version Control Integration',
-            'image' => 'furrylogic.png'
+            'image' => 'furrylogic.png',
+            'url' => '#!'
         ],
         (object) [
             'name' => 'Diablo Rankings',
             'category' => 'API Driven Statistics',
-            'image' => 'diablorankings-min.png'
+            'image' => 'diablorankings-min.png',
+            'url' => 'http://diablorankings.net'
+        ],
+        (object) [
+            'name' => 'Winter Park Tigers',
+            'category' => 'Content Management System',
+            'image' => 'wptigers-min.png',
+            'url' => 'http://winterparktigers.com'
         ]
     ];
 ?>
@@ -172,7 +182,7 @@
             <div class="row no-gutter">
                 <?php foreach ($projects as $project): ?>
                     <div class="col-lg-4 col-sm-6">
-                        <a href="#" class="portfolio-box">
+                        <a href="<?php echo $project->url; ?>" class="portfolio-box">
                             <img src="img/portfolio/<?php echo $project->image; ?>" class="img-responsive" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
