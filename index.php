@@ -14,6 +14,11 @@
             'name' => 'Furrylogic',
             'category' => 'Version Control Integration',
             'image' => 'furrylogic.png'
+        ],
+        (object) [
+            'name' => 'Diablo Rankings',
+            'category' => 'API Driven Statistics',
+            'image' => 'diablorankings-min.png'
         ]
     ];
 ?>
