@@ -265,6 +265,10 @@ header .header-content .header-content-inner p {
     max-width: 650px;
 }
 
+.portfolio-box img {
+    height: 245px !important;
+}
+
 .portfolio-box .portfolio-box-caption {
     display: block;
     position: absolute;
