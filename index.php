@@ -1,3 +1,22 @@
+<?php
+    $projects = [
+        (object) [
+            'name' => 'Structure CMS',
+            'category' => 'Content Management System',
+            'image' => 'structure.png'
+        ],
+        (object) [
+            'name' => 'Desert Made Jewelry',
+            'category' => 'Wordpress',
+            'image' => 'desertmade.png'
+        ],
+        (object) [
+            'name' => 'Furrylogic',
+            'category' => 'Version Control Integration',
+            'image' => 'furrylogic.png'
+        ]
+    ];
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -146,51 +165,23 @@
                 </div>
             </div>
             <div class="row no-gutter">
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/structure.png" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Content Management System
-                                </div>
-                                <div class="project-name">
-                                    Structure CMS
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="http://www.desertmade.com/" class="portfolio-box" target="_blank">
-                        <img src="img/portfolio/desertmade.png" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Wordpress
-                                </div>
-                                <div class="project-name">
-                                    Desertmade
+                <?php foreach ($projects as $project): ?>
+                    <div class="col-lg-4 col-sm-6">
+                        <a href="#" class="portfolio-box">
+                            <img src="img/portfolio/<?php echo $project->image; ?>" class="img-responsive" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
+                                        <?php echo $project->category; ?>
+                                    </div>
+                                    <div class="project-name">
+                                        <?php echo $project->name; ?>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/furrylogic.png" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Content Management System
-                                </div>
-                                <div class="project-name">
-                                    Furrylogic
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
+                        </a>
+                    </div>
+                <?php endforeach; ?>
             </div>
         </div>
     </section>
@@ -241,7 +232,5 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
-
 </body>
-
 </html>
